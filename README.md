@@ -23,6 +23,23 @@
 
 ## 创始读者列表
 
+### 26：MasterPa
+
+- [即刻主页](https://web.okjike.com/originalPost/61bd4855d547dc0010bfdd9d)
+
+### 27：MasterPa
+
+同上。
+
+### 50：爪云王子剑
+
+- [即刻主页](https://web.okjike.com/originalPost/61bf6436d3ffd80010bf628c)
+
+### 64：Lightory
+
+- [即刻主页](https://web.okjike.com/originalPost/61bd6fbfc940e10010e5c759)
+
+
 ### 99：千古壹号
 
 - [即刻主页](https://web.okjike.com/u/smyhvae)
@@ -40,7 +57,7 @@
 
 ### 子郁
 
-- 即刻主页
+- [即刻主页](https://web.okjike.com/u/9EAC70C3-5FFD-4559-BA8C-6F892CA9A39B)
 
 
 
