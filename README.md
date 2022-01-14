@@ -14,7 +14,7 @@
 
 ## 欢迎补充
 
-庆幸下面的这群人花了 ¥800 成为阅览室的「创始读者」。更新进度：10/1250。
+庆幸下面的这群人花了 ¥800 成为阅览室的「创始读者」。更新进度：13/1250。
 
 欢迎补充：
 
@@ -23,13 +23,11 @@
 
 ## 创始读者列表
 
-### 26：MasterPa
+### 26、27：MasterPa
 
 - [即刻主页](https://web.okjike.com/originalPost/61bd4855d547dc0010bfdd9d)
 
-### 27：MasterPa
 
-同上。
 
 ### 50：爪云王子剑
 
@@ -39,14 +37,15 @@
 
 - [即刻主页](https://web.okjike.com/originalPost/61bd6fbfc940e10010e5c759)
 
-
 ### 99：千古壹号
 
 - [即刻主页](https://web.okjike.com/u/smyhvae)
 
 - 博客：https://www.qianguyihao.com/
 
+### 231、232：子郁
 
+- [即刻主页](https://web.okjike.com/u/9EAC70C3-5FFD-4559-BA8C-6F892CA9A39B)
 
 ### 365：AhaMoment的大胖
 
@@ -54,10 +53,6 @@
 
 
 ## 创始读者列表（编号不明）
-
-### 子郁
-
-- [即刻主页](https://web.okjike.com/u/9EAC70C3-5FFD-4559-BA8C-6F892CA9A39B)
 
 
 
