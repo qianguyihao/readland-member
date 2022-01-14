@@ -14,19 +14,22 @@
 
 ## 欢迎补充
 
-庆幸下面的这群人花了 ¥800 成为阅览室的「创始读者」。更新进度：13/1250。
+庆幸下面的这群人花了 ¥800 成为阅览室的「创始读者」。更新进度：30/1250。
 
 欢迎补充：
 
-- 方式1：提交 [GitHub Issues](https://github.com/qianguyihao/readland-member/issues)。
+- 方式1：提交 [GitHub Issues](https://github.com/qianguyihao/readland-member/issues)，或者提交  Pull Request。
 - 方式2：添加微信 bootmei，发送含会员编号的分享图。
 
 ## 创始读者列表
 
-### 26、27：MasterPa
+### 9：乔阿蒙乔斯达
+
+- [即刻主页](https://web.okjike.com/originalPost/61be036e27ddc20010986b48)
+
+### 26、27：MasterPa（两张卡）
 
 - [即刻主页](https://web.okjike.com/originalPost/61bd4855d547dc0010bfdd9d)
-
 
 
 ### 50：爪云王子剑
@@ -43,7 +46,7 @@
 
 - 博客：https://www.qianguyihao.com/
 
-### 231、232：子郁
+### 231、232：子郁（两张卡）
 
 - [即刻主页](https://web.okjike.com/u/9EAC70C3-5FFD-4559-BA8C-6F892CA9A39B)
 
@@ -84,12 +87,42 @@
 
 
 
+### 白一喵（两张卡）
+
+- [即刻主页](https://web.okjike.com/repost/61bacdc7c84f9f001079fc93)
+
+### 谈小罗coding
+
+- [即刻主页](https://web.okjike.com/u/c2c88889-9c93-41ca-b17f-34e7e36232c1)
+
+### 九爷是个酷girl
+
+- [即刻主页](https://web.okjike.com/u/CBF31204-A494-4E5C-A352-609A5AED3056)
 
 
+### Lenville（两张卡）
 
+- [即刻主页](https://web.okjike.com/u/05B9704C-145E-4C7A-B55F-D82266C551E9)
 
+### 抬抬高（两张卡）
 
+- [即刻主页](https://web.okjike.com/repost/61bae35fc2053d0010a3d8da)
 
+### 崇旭_Ken（两张卡）
+
+- [即刻主页](https://web.okjike.com/u/34811A5B-DAAC-41A4-94E9-95A8BFD57453)
+
+### Jermic（两张卡）
+
+- [即刻主页](https://web.okjike.com/u/6d6f42df-27cb-49c0-9fc3-9fe928fdb2e2)
+
+### 机智的阿饭（两张卡）
+
+- [即刻主页](https://web.okjike.com/u/40c8cb7c-81a9-4fbf-b47d-771aa9c55659)
+
+### xifeng（两张卡）
+
+- [即刻主页](https://web.okjike.com/u/0c976811-2157-4401-90e9-9d20a8be5155)
 
 
 
