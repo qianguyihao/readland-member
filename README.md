@@ -54,6 +54,11 @@
 
 - 公众号：TheAhaMoment
 
+### 851、852：抬抬高（两张卡）
+
+- [即刻主页](https://web.okjike.com/repost/61bae35fc2053d0010a3d8da)
+
+
 
 ## 创始读者列表（编号不明）
 
@@ -103,10 +108,6 @@
 ### Lenville（两张卡）
 
 - [即刻主页](https://web.okjike.com/u/05B9704C-145E-4C7A-B55F-D82266C551E9)
-
-### 抬抬高（两张卡）
-
-- [即刻主页](https://web.okjike.com/repost/61bae35fc2053d0010a3d8da)
 
 ### 崇旭_Ken（两张卡）
 
